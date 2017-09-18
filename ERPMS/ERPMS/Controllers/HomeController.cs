@@ -13,6 +13,7 @@ namespace ERPMS.Controllers
 
         public ActionResult Index()
         {
+            ViewBag.Title = "首页";
             return View();
         }
 
