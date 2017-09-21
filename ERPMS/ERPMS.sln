@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERPMS", "ERPMS\ERPMS.csproj", "{1C7B0E5D-9E4B-45F2-A2FE-390F359CA230}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{49360802-D61E-4D82-8FB7-ED0BE9134E6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{C16783CF-7CA6-457B-AEEF-3D7173D55887}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1C7B0E5D-9E4B-45F2-A2FE-390F359CA230}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C7B0E5D-9E4B-45F2-A2FE-390F359CA230}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C7B0E5D-9E4B-45F2-A2FE-390F359CA230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49360802-D61E-4D82-8FB7-ED0BE9134E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49360802-D61E-4D82-8FB7-ED0BE9134E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49360802-D61E-4D82-8FB7-ED0BE9134E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49360802-D61E-4D82-8FB7-ED0BE9134E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C16783CF-7CA6-457B-AEEF-3D7173D55887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16783CF-7CA6-457B-AEEF-3D7173D55887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16783CF-7CA6-457B-AEEF-3D7173D55887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16783CF-7CA6-457B-AEEF-3D7173D55887}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
