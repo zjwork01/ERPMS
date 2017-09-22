@@ -1,0 +1,4 @@
+D:\毕设\ERPMS\ERPMS\Model\bin\Debug\Model.dll
+D:\毕设\ERPMS\ERPMS\Model\bin\Debug\Model.pdb
+D:\毕设\ERPMS\ERPMS\Model\obj\Debug\Model.dll
+D:\毕设\ERPMS\ERPMS\Model\obj\Debug\Model.pdb

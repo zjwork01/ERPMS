@@ -1,0 +1,9 @@
+D:\毕设\ERPMS\ERPMS\BLL\bin\Debug\BLL.dll
+D:\毕设\ERPMS\ERPMS\BLL\bin\Debug\BLL.pdb
+D:\毕设\ERPMS\ERPMS\BLL\obj\Debug\BLL.dll
+D:\毕设\ERPMS\ERPMS\BLL\obj\Debug\BLL.pdb
+D:\毕设\ERPMS\ERPMS\BLL\bin\Debug\DAL.dll
+D:\毕设\ERPMS\ERPMS\BLL\bin\Debug\Model.dll
+D:\毕设\ERPMS\ERPMS\BLL\bin\Debug\DAL.pdb
+D:\毕设\ERPMS\ERPMS\BLL\bin\Debug\Model.pdb
+D:\毕设\ERPMS\ERPMS\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
