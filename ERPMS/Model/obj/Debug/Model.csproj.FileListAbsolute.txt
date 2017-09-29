@@ -2,3 +2,8 @@ D:\毕设\ERPMS\ERPMS\Model\bin\Debug\Model.dll
 D:\毕设\ERPMS\ERPMS\Model\bin\Debug\Model.pdb
 D:\毕设\ERPMS\ERPMS\Model\obj\Debug\Model.dll
 D:\毕设\ERPMS\ERPMS\Model\obj\Debug\Model.pdb
+E:\毕设\Code\ERPMS\Model\bin\Debug\Model.dll
+E:\毕设\Code\ERPMS\Model\bin\Debug\Model.pdb
+E:\毕设\Code\ERPMS\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\毕设\Code\ERPMS\Model\obj\Debug\Model.dll
+E:\毕设\Code\ERPMS\Model\obj\Debug\Model.pdb
